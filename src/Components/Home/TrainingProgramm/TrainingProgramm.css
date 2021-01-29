@@ -1,0 +1,16 @@
+.training-programm .card{
+    position: relative;
+    margin-bottom: 20px;
+}
+.training-programm .card img{
+    width:100%;
+    height: 400px;
+}
+
+.training-programm .btn-brand{
+    position: absolute;
+    width:85%;
+    left: 0;
+    bottom: 10%;
+    padding: 20px;
+}

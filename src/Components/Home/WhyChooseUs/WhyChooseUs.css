@@ -1,0 +1,15 @@
+.choose-us{
+    margin: 100px 0;
+}
+.choose-us .card {
+    padding: 10px 10px 40px 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 8px 2px #d2d2d2;
+    cursor: pointer;
+}
+.choose-us .card img{
+    width:50px;
+    display:block;
+    margin:auto;
+    margin-top: 50px;
+}

@@ -1,0 +1,19 @@
+.member-form-container{
+    padding: 20px 0px;
+}
+.member-form-container form .form-control{
+    padding: 15px 10px;
+    border: 1px solid rgba(0, 0, 0, 0.349);
+}
+.member-form-container form label {
+    font-weight: 600;
+    color: #383838;
+    margin-top: 10px;
+}
+.member-form-container form span {
+    color: red;
+    font-size: 14px;
+}
+.react-datepicker-wrapper {
+    width: 100%;
+}
