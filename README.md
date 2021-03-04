@@ -3,7 +3,7 @@
     Power-X-Gym is a full stack web application where people can admission to the gym with convenients schedule and plan of choice.
 </p>
 
-<a href="http://https://power-gym-00.netlify.app/">Live Server</a>
+<a href="http://https://power-gym-00.netlify.app/" target="_blank">Live Server</a>
 
 ### Features
 <ul>
@@ -31,4 +31,4 @@
     <li>stripe.js</li>
 </ul>
 
-<a href="https://github.com/sarowar-hosen1/power-x-gym-server">Backend Repository</a>
+<a href="https://github.com/sarowar-hosen1/power-x-gym-server" target="_blank">Backend Repository</a>
