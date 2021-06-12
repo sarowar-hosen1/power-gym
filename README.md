@@ -22,7 +22,7 @@
     <li>React.js</li>
 </ul>
 
-### Front-end tachnology:
+### Backend tachnology:
 <ul>
     <li>Node.js</li>
     <li>Express.js</li>
